@@ -1,0 +1,2 @@
+module SlackEventsHelper
+end
